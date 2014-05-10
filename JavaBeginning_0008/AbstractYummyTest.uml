@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>JAVA</ID>
+  <OriginalElement>AbstractYummyTest</OriginalElement>
+  <nodes>
+    <node x="0.0" y="269.5">recipes.sweet.AbstractYummy</node>
+    <node x="271.0" y="219.0">recipes.sweet.Ingredient.Builder</node>
+    <node x="173.35" y="479.0">AbstractYummyTest</node>
+    <node x="266.225" y="0.0">recipes.sweet.Ingredient</node>
+  </nodes>
+  <notes />
+  <edges>
+    <edge source="AbstractYummyTest" target="recipes.sweet.Ingredient.Builder">
+      <point x="33.125" y="-74.0" />
+      <point x="338.975" y="449.0" />
+      <point x="406.0" y="449.0" />
+      <point x="0.0" y="105.0" />
+    </edge>
+    <edge source="AbstractYummyTest" target="recipes.sweet.AbstractYummy">
+      <point x="-33.125" y="-74.0" />
+      <point x="272.725" y="449.0" />
+      <point x="188.25" y="449.0" />
+      <point x="62.75" y="54.5" />
+    </edge>
+    <edge source="recipes.sweet.Ingredient.Builder" target="recipes.sweet.Ingredient">
+      <point x="-67.5" y="-105.0" />
+      <point x="338.5" y="194.0" />
+      <point x="365.975" y="194.0" />
+      <point x="-33.25" y="84.5" />
+    </edge>
+    <edge source="AbstractYummyTest" target="recipes.sweet.Ingredient">
+      <point x="99.375" y="-74.0" />
+      <point x="405.225" y="459.0" />
+      <point x="551.5" y="459.0" />
+      <point x="551.5" y="194.0" />
+      <point x="498.975" y="194.0" />
+      <point x="99.75" y="84.5" />
+    </edge>
+    <edge source="recipes.sweet.AbstractYummy" target="recipes.sweet.Ingredient">
+      <point x="0.0" y="-54.5" />
+      <point x="125.5" y="194.0" />
+      <point x="299.475" y="194.0" />
+      <point x="-99.75" y="84.5" />
+    </edge>
+  </edges>
+  <settings layout="Hierarchic Group" zoom="0.893353941267388" x="289.0" y="313.5" />
+  <SelectedNodes />
+  <Categories>
+    <Category>Properties</Category>
+    <Category>Methods</Category>
+    <Category>Constructors</Category>
+    <Category>Fields</Category>
+    <Category>Inner Classes</Category>
+  </Categories>
+  <SCOPE>All</SCOPE>
+  <VISIBILITY>private</VISIBILITY>
+</Diagram>
+

@@ -3,95 +3,95 @@
   <ID>JAVA</ID>
   <OriginalElement>Main</OriginalElement>
   <nodes>
-    <node x="48.36111111111114" y="238.0">recipes.sweet.AbstractYummy</node>
-    <node x="215.0694444444445" y="565.0">Main</node>
-    <node x="54.138888888888914" y="407.0">recipes.sweet.IceCream</node>
-    <node x="299.36111111111114" y="208.0">recipes.sweet.Ingredient.Builder</node>
-    <node x="347.9166666666667" y="407.0">recipes.sweet.Pie</node>
+    <node x="51.763888888888886" y="238.0">recipes.sweet.AbstractYummy</node>
+    <node x="218.28703703703704" y="565.0">Main</node>
+    <node x="337.25" y="407.0">recipes.sweet.IceCream</node>
+    <node x="302.7638888888889" y="208.0">recipes.sweet.Ingredient.Builder</node>
+    <node x="68.66666666666669" y="407.0">recipes.sweet.Pie</node>
     <node x="0.0" y="40.5">recipes.sweet.Yummy</node>
-    <node x="202.50000000000003" y="0.0">recipes.sweet.Ingredient</node>
+    <node x="202.5" y="0.0">recipes.sweet.Ingredient</node>
   </nodes>
   <notes />
   <edges>
     <edge source="recipes.sweet.Pie" target="recipes.sweet.AbstractYummy">
-      <point x="-46.0" y="-54.0" />
-      <point x="370.9166666666667" y="377.0" />
-      <point x="221.61111111111114" y="377.0" />
-      <point x="57.75" y="44.5" />
+      <point x="0.0" y="-54.0" />
+      <point x="137.66666666666669" y="387.0" />
+      <point x="109.51388888888889" y="387.0" />
+      <point x="-57.75" y="44.5" />
     </edge>
     <edge source="recipes.sweet.IceCream" target="recipes.sweet.Ingredient">
-      <point x="-56.66666666666666" y="-54.0" />
-      <point x="82.47222222222226" y="387.0" />
-      <point x="37.4027777777778" y="387.0" />
-      <point x="37.4027777777778" y="178.0" />
-      <point x="229.00000000000003" y="178.0" />
-      <point x="-106.0" y="74.0" />
+      <point x="56.66666666666666" y="-54.0" />
+      <point x="478.91666666666663" y="387.0" />
+      <point x="509.962962962963" y="387.0" />
+      <point x="509.962962962963" y="178.0" />
+      <point x="441.0" y="178.0" />
+      <point x="106.0" y="74.0" />
     </edge>
     <edge source="recipes.sweet.IceCream" target="recipes.sweet.Ingredient.Builder">
-      <point x="56.66666666666666" y="-54.0" />
-      <point x="195.80555555555557" y="387.0" />
-      <point x="348.36111111111114" y="387.0" />
-      <point x="-49.0" y="74.5" />
+      <point x="0.0" y="-54.0" />
+      <point x="422.25" y="387.0" />
+      <point x="449.7638888888889" y="387.0" />
+      <point x="49.0" y="74.5" />
     </edge>
     <edge source="recipes.sweet.AbstractYummy" target="recipes.sweet.Yummy">
       <point x="-57.75" y="-44.5" />
-      <point x="106.11111111111114" y="168.0" />
+      <point x="109.51388888888889" y="168.0" />
       <point x="67.0" y="168.0" />
       <point x="0.0" y="33.5" />
     </edge>
     <edge source="recipes.sweet.IceCream" target="recipes.sweet.AbstractYummy">
-      <point x="0.0" y="-54.0" />
-      <point x="139.1388888888889" y="387.0" />
-      <point x="106.11111111111114" y="387.0" />
-      <point x="-57.75" y="44.5" />
-    </edge>
-    <edge source="Main" target="recipes.sweet.IceCream">
-      <point x="-35.5" y="-23.5" />
-      <point x="250.5694444444445" y="540.0" />
-      <point x="139.1388888888889" y="540.0" />
-      <point x="0.0" y="54.0" />
+      <point x="-56.66666666666666" y="-54.0" />
+      <point x="365.58333333333337" y="377.0" />
+      <point x="225.01388888888889" y="377.0" />
+      <point x="57.75" y="44.5" />
     </edge>
     <edge source="recipes.sweet.Pie" target="recipes.sweet.Ingredient.Builder">
-      <point x="0.0" y="-54.0" />
-      <point x="416.9166666666667" y="387.0" />
-      <point x="446.36111111111114" y="387.0" />
-      <point x="49.0" y="74.5" />
+      <point x="46.0" y="-54.0" />
+      <point x="183.66666666666669" y="387.0" />
+      <point x="351.7638888888889" y="387.0" />
+      <point x="-49.0" y="74.5" />
+    </edge>
+    <edge source="Main" target="recipes.sweet.IceCream">
+      <point x="35.5" y="-23.5" />
+      <point x="324.78703703703707" y="540.0" />
+      <point x="422.25" y="540.0" />
+      <point x="0.0" y="54.0" />
     </edge>
     <edge source="Main" target="recipes.sweet.Pie">
-      <point x="35.5" y="-23.5" />
-      <point x="321.5694444444445" y="540.0" />
-      <point x="416.9166666666667" y="540.0" />
+      <point x="-35.5" y="-23.5" />
+      <point x="253.78703703703704" y="540.0" />
+      <point x="137.66666666666669" y="540.0" />
       <point x="0.0" y="54.0" />
     </edge>
     <edge source="recipes.sweet.Pie" target="recipes.sweet.Ingredient">
-      <point x="46.0" y="-54.0" />
-      <point x="462.9166666666667" y="387.0" />
-      <point x="505.8611111111111" y="387.0" />
-      <point x="505.8611111111111" y="178.0" />
-      <point x="441.0" y="178.0" />
-      <point x="106.0" y="74.0" />
+      <point x="-46.0" y="-54.0" />
+      <point x="91.66666666666669" y="387.0" />
+      <point x="41.263888888888886" y="387.0" />
+      <point x="41.263888888888886" y="178.0" />
+      <point x="229.0" y="178.0" />
+      <point x="-106.0" y="74.0" />
     </edge>
     <edge source="recipes.sweet.Ingredient.Builder" target="recipes.sweet.Ingredient">
       <point x="-49.0" y="-74.5" />
-      <point x="348.36111111111114" y="188.0" />
+      <point x="351.7638888888889" y="188.0" />
       <point x="335.0" y="188.0" />
       <point x="0.0" y="74.0" />
     </edge>
     <edge source="recipes.sweet.AbstractYummy" target="recipes.sweet.Ingredient">
       <point x="57.75" y="-44.5" />
-      <point x="221.61111111111114" y="188.0" />
+      <point x="225.01388888888889" y="188.0" />
       <point x="282.0" y="188.0" />
       <point x="-53.0" y="74.0" />
     </edge>
   </edges>
-  <settings layout="Hierarchic Group" zoom="0.9145569620253164" x="266.0" y="306.0" />
+  <settings layout="Hierarchic Group" zoom="1.0" x="268.0" y="306.0" />
   <SelectedNodes />
   <Categories>
-    <Category>Properties</Category>
-    <Category>Methods</Category>
     <Category>Constructors</Category>
     <Category>Fields</Category>
+    <Category>Methods</Category>
     <Category>Inner Classes</Category>
+    <Category>Properties</Category>
   </Categories>
   <SCOPE>All</SCOPE>
   <VISIBILITY>protected</VISIBILITY>
