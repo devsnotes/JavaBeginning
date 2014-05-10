@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2014-05-11T00:28:28</date>
+  <millis>1399757308151</millis>
+  <sequence>0</sequence>
+  <logger>logger.log</logger>
+  <level>INFO</level>
+  <class>recipes.sweet.IceCream</class>
+  <method>cookIt</method>
+  <thread>1</thread>
+  <message>IceCream.cookIt()</message>
+</record>
+<record>
+  <date>2014-05-11T00:28:28</date>
+  <millis>1399757308172</millis>
+  <sequence>1</sequence>
+  <logger>logger.log</logger>
+  <level>INFO</level>
+  <class>recipes.sweet.IceCream</class>
+  <method>coldIt</method>
+  <thread>1</thread>
+  <message>IceCream.coldIt()</message>
+</record>
+<record>
+  <date>2014-05-11T00:28:28</date>
+  <millis>1399757308173</millis>
+  <sequence>2</sequence>
+  <logger>logger.log</logger>
+  <level>INFO</level>
+  <class>recipes.sweet.IceCream</class>
+  <method>eatIt</method>
+  <thread>1</thread>
+  <message>IceCream.eatIt()</message>
+</record>
+<record>
+  <date>2014-05-11T00:28:28</date>
+  <millis>1399757308174</millis>
+  <sequence>3</sequence>
+  <logger>logger.log</logger>
+  <level>INFO</level>
+  <class>Main</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>IceCream{ingredients=[Ingredient{name='heavy cream', weight=300, calories=100}, Ingredient{name='whole milk', weight=100, calories=200}, Ingredient{name='sugar', weight=150, calories=200}, Ingredient{name='vanilla extract', weight=5, calories=10}], calories=800}</message>
+</record>
+<record>
+  <date>2014-05-11T00:28:28</date>
+  <millis>1399757308175</millis>
+  <sequence>4</sequence>
+  <logger>logger.log</logger>
+  <level>INFO</level>
+  <class>recipes.sweet.Pie</class>
+  <method>cookIt</method>
+  <thread>1</thread>
+  <message>Pie.cookIt()</message>
+</record>
+<record>
+  <date>2014-05-11T00:28:28</date>
+  <millis>1399757308176</millis>
+  <sequence>5</sequence>
+  <logger>logger.log</logger>
+  <level>INFO</level>
+  <class>recipes.sweet.Pie</class>
+  <method>wormIt</method>
+  <thread>1</thread>
+  <message>Pie.wormIt()</message>
+</record>
+<record>
+  <date>2014-05-11T00:28:28</date>
+  <millis>1399757308176</millis>
+  <sequence>6</sequence>
+  <logger>logger.log</logger>
+  <level>INFO</level>
+  <class>recipes.sweet.Pie</class>
+  <method>eatIt</method>
+  <thread>1</thread>
+  <message>Pie.eatIt()</message>
+</record>
+<record>
+  <date>2014-05-11T00:28:28</date>
+  <millis>1399757308177</millis>
+  <sequence>7</sequence>
+  <logger>logger.log</logger>
+  <level>INFO</level>
+  <class>Main</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Pie{ingredients=[Ingredient{name='flour', weight=300, calories=100}, Ingredient{name='sugars', weight=100, calories=200}, Ingredient{name='salt', weight=5, calories=0}, Ingredient{name='butter', weight=30, calories=120}, Ingredient{name='shortening', weight=100, calories=60}, Ingredient{name='eggs', weight=60, calories=30}, Ingredient{name='milk', weight=100, calories=50}], calories=664}</message>
+</record>
+</log>
