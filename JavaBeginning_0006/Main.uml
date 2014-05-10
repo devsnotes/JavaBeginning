@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>JAVA</ID>
+  <OriginalElement>Main</OriginalElement>
+  <nodes>
+    <node x="9.25" y="239.0">recipes.sweet.AbstractYummy</node>
+    <node x="174.875" y="536.0">Main</node>
+    <node x="73.875" y="378.0">recipes.sweet.IceCream</node>
+    <node x="263.875" y="378.0">recipes.sweet.Pie</node>
+    <node x="0.0" y="61.0">recipes.sweet.Yummy</node>
+    <node x="179.54166666666666" y="0.0">recipes.sweet.Ingredient</node>
+  </nodes>
+  <notes />
+  <edges>
+    <edge source="recipes.sweet.Pie" target="recipes.sweet.AbstractYummy">
+      <point x="-34.5" y="-54.0" />
+      <point x="298.375" y="348.0" />
+      <point x="182.5" y="348.0" />
+      <point x="57.75" y="44.5" />
+    </edge>
+    <edge source="recipes.sweet.IceCream" target="recipes.sweet.Ingredient">
+      <point x="42.5" y="-54.0" />
+      <point x="201.375" y="358.0" />
+      <point x="274.73958333333337" y="358.0" />
+      <point x="274.73958333333337" y="214.0" />
+      <point x="306.54166666666663" y="214.0" />
+      <point x="0.0" y="94.5" />
+    </edge>
+    <edge source="recipes.sweet.AbstractYummy" target="recipes.sweet.Yummy">
+      <point x="-57.75" y="-44.5" />
+      <point x="0.0" y="33.5" />
+    </edge>
+    <edge source="recipes.sweet.IceCream" target="recipes.sweet.AbstractYummy">
+      <point x="-42.5" y="-54.0" />
+      <point x="116.375" y="358.0" />
+      <point x="67.0" y="358.0" />
+      <point x="-57.75" y="44.5" />
+    </edge>
+    <edge source="Main" target="recipes.sweet.IceCream">
+      <point x="-35.5" y="-23.5" />
+      <point x="210.375" y="511.0" />
+      <point x="158.875" y="511.0" />
+      <point x="0.0" y="54.0" />
+    </edge>
+    <edge source="Main" target="recipes.sweet.Pie">
+      <point x="35.5" y="-23.5" />
+      <point x="281.375" y="511.0" />
+      <point x="332.875" y="511.0" />
+      <point x="0.0" y="54.0" />
+    </edge>
+    <edge source="recipes.sweet.Pie" target="recipes.sweet.Ingredient">
+      <point x="34.5" y="-54.0" />
+      <point x="367.375" y="214.0" />
+      <point x="391.20833333333337" y="214.0" />
+      <point x="84.66666666666669" y="94.5" />
+    </edge>
+    <edge source="recipes.sweet.AbstractYummy" target="recipes.sweet.Ingredient">
+      <point x="57.75" y="-44.5" />
+      <point x="182.5" y="214.0" />
+      <point x="221.87499999999997" y="214.0" />
+      <point x="-84.66666666666669" y="94.5" />
+    </edge>
+  </edges>
+  <settings layout="Hierarchic Group" zoom="0.9585406301824212" x="217.0" y="291.5" />
+  <SelectedNodes />
+  <Categories>
+    <Category>Inner Classes</Category>
+    <Category>Properties</Category>
+    <Category>Methods</Category>
+    <Category>Constructors</Category>
+    <Category>Fields</Category>
+  </Categories>
+  <SCOPE>All</SCOPE>
+  <VISIBILITY>protected</VISIBILITY>
+</Diagram>
+
