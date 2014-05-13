@@ -2,23 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="088b6c85-e15f-4ff1-b473-0dffdec43877" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../JavaBeginning_0003/out/production/JavaBeginning_0003/recipes/sweet/IceCream.class" afterPath="$PROJECT_DIR$/../JavaBeginning_0003/out/production/JavaBeginning_0003/recipes/sweet/IceCream.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Main.uml" afterPath="$PROJECT_DIR$/Main.uml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../JavaBeginning_0003/out/production/JavaBeginning_0003/recipes/sweet/Pie.class" afterPath="$PROJECT_DIR$/../JavaBeginning_0003/out/production/JavaBeginning_0003/recipes/sweet/Pie.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/diagram.png" afterPath="$PROJECT_DIR$/diagram.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../JavaBeginning_0001/.idea/vcs.xml" afterPath="$PROJECT_DIR$/../JavaBeginning_0001/.idea/vcs.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../JavaBeginning_0002/.idea/vcs.xml" afterPath="$PROJECT_DIR$/../JavaBeginning_0002/.idea/vcs.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../JavaBeginning_0003/.idea/vcs.xml" afterPath="$PROJECT_DIR$/../JavaBeginning_0003/.idea/vcs.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../JavaBeginning_0004/.idea/vcs.xml" afterPath="$PROJECT_DIR$/../JavaBeginning_0004/.idea/vcs.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../JavaBeginning_0005/.idea/vcs.xml" afterPath="$PROJECT_DIR$/../JavaBeginning_0005/.idea/vcs.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../JavaBeginning_0006/.idea/vcs.xml" afterPath="$PROJECT_DIR$/../JavaBeginning_0006/.idea/vcs.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../JavaBeginning_0001/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../JavaBeginning_0001/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../JavaBeginning_0002/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../JavaBeginning_0002/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../JavaBeginning_0003/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../JavaBeginning_0003/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../JavaBeginning_0004/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../JavaBeginning_0004/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../JavaBeginning_0005/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../JavaBeginning_0005/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../JavaBeginning_0006/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../JavaBeginning_0006/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="JavaBeginning_0007.iws" />
@@ -91,38 +74,14 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
             <PATH_ELEMENT>
               <option name="myItemId" value="JavaBeginning_0007" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="JavaBeginning_0007" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="JavaBeginning_0007" />
-              <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="JavaBeginning_0007" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="JavaBeginning_0007" />
-              <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
@@ -534,6 +493,7 @@
       <workItem from="1399713792607" duration="25000" />
       <workItem from="1399713929502" duration="1247000" />
       <workItem from="1399753270978" duration="714000" />
+      <workItem from="1399755206663" duration="21000" />
     </task>
     <task id="LOCAL-00001" summary="Setter removed">
       <created>1399673271178</created>
@@ -543,10 +503,10 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4658000" />
+    <option name="totallyTimeSpent" value="4679000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="1276" height="1036" extended-state="1" />
+    <frame x="0" y="0" width="1276" height="1036" extended-state="0" />
     <editor active="false" />
     <layout>
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -573,8 +533,8 @@
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32943678" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
     </layout>
   </component>
   <component name="Vcs.Log.UiProperties">
